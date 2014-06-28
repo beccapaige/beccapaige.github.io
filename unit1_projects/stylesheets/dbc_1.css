@@ -1,0 +1,41 @@
+<!DOCTYPE css>
+<css>
+<head>
+	#base{ 
+	  width: 80%;
+	  margin: auto;
+	  padding: 20px;
+	  border: 1px solid #800000;
+	  background: #ccccb2;
+	}
+
+body {
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: center;
+
+	a:link {
+	    color: #003366;
+	}
+
+	a:visited {
+	    color: #000099;
+	}
+
+	a:hover {
+	    color: #006699;
+	}
+
+	a:active {
+	    color: #666699;
+	}
+}
+
+.emphasis{
+	color: red;
+	font-weight: bold;
+}
+
+
+
+</head>
+</css>
