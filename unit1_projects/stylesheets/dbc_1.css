@@ -1,7 +1,4 @@
-<!DOCTYPE css>
-<css>
-<head>
-	#base{ 
+#base{ 
 	  width: 80%;
 	  margin: auto;
 	  padding: 20px;
@@ -34,8 +31,3 @@ body {
 	color: red;
 	font-weight: bold;
 }
-
-
-
-</head>
-</css>
