@@ -1,0 +1,40 @@
+#blog{
+	background-color: #cccccc;
+	height: 550px;
+	width: 100%;
+
+}
+
+.head{
+	background-color:#333333;
+	height:100%;
+	top: 0;
+}
+
+.rightcolumn{
+	float: right;
+	width:200px;
+	background-color: #333333;
+	margin: 0;
+	padding: 1em;
+	min-height: 520px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+
+}
+
+.post{
+	margin: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#800000;
+
+}
+
+.footer{
+	position: absolute;
+	width: 99%;
+	background-color: #333333;
+	color:white;
+	bottom: 0;
+
+}
