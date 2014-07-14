@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<div class="head">
+  <h1><font color="white">Blog for blogging</font></h1>
+</div>
+</head>
+
+<div id="blog">
+
+  <div class="rightcolumn">
+    <ul>
+    <li><a href="http://beccapaige.github.io/unit1_projects/dbc_1.html" target="_blank">DBC1 Introduction</a></li>
+    <li><a href="http://beccapaige.github.io/unit1_projects/dbc2.html" target="_blank">DBC2 solo challenge</a></li>
+  </br>
+  </br>
+    <p><i>Welcome to my blog!</i></p>
+  </div>
+
+  <div class="post">
+    <b>The cool kids use Javascript?</b>
+  </br>
+    <p>Why, you ask? It's easy, fast, and versatile. JavaScript doesn't need a compiler, and is supported by every web browser at this point. It can be added to a web site without any worry that it may not be readable.</p>
+
+    <p>With Javascript, you can modify a page without having to wait for any new information to be sent back and forth from a server. JavaScript is also able to load more content on a page without being refreshed! Even though more data is being transfered from the server, the page feels faster to the user because of it.</p>
+
+    <p>Whole web apps can be built in JavaScript and create dynamic pages where a single language is used for both front and back end interactions. There's no need to link multiple files to do one job. Javascript does it all!</p>
+
+  </div>
+
+  <div class="footer">
+    Rebecca Perez, 2014
+  </div>
+</div>
+
+
+</html>
