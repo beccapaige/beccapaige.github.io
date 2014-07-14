@@ -1,0 +1,66 @@
+body {
+	background-image: url("http://www.arcadecinema.net/reviews/warrev/wargifs/galaga5.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width:90%;
+	height:100%;
+}
+
+.container {
+	max-width:1400px;
+	width:100%;
+}
+
+header {
+	margin-top:4%;
+	padding: 2%;
+	width:25%;
+	height:10%;
+	background-color: rgba(137,176,170, .5);
+	color: #333333;
+	text-align: center;
+	float: right;
+	border: .2em double #990000;
+	font-family: "Arial", sans-serif
+}
+
+.blogs {
+	width:20%;
+	height: 10%;
+	padding: .5%;
+	margin: 2.5%;
+	background-color: rgba(137,176,170, .5);
+	color: #333333;
+	text-align: center;
+	border: .2em double #990000;
+	font-family: "Arial", sans-serif;
+	float: left;
+}
+
+.nav {
+	width:20%;
+	height: 10%; 
+	padding: 1%;
+	margin: 2.5%;
+	background-color: rgba(137,176,170, .5);
+	color: #333333;
+	border: .2em double #990000;
+	font-family: "Arial", sans-serif;
+
+}
+
+a:link {
+    color: #FF0000;
+}
+
+a:visited {
+    color: #990000;
+}
+
+a:hover {
+    color: #333333;
+}
+
+a:active {
+    color: #0000FF;
+}
