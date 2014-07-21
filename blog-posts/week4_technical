@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+<div class="head">
+  <h1><font color="white">Blog for blogging</font></h1>
+</div>
+</head>
+
+<div id="blog">
+
+  <div class="rightcolumn">
+    <ul>
+    <li><a href="http://beccapaige.github.io/unit1_projects/dbc_1.html" target="_blank">DBC1 Introduction</a></li>
+    <li><a href="http://beccapaige.github.io/unit1_projects/dbc2.html" target="_blank">DBC2 solo challenge</a></li>
+  </br>
+  </br>
+    <p><i>Welcome to my blog!</i></p>
+  </div>
+
+  <div class="post">
+    <b>Arrays vs. Hashes</b>
+  </br>
+      <p>Arrays are lists of ordered items. They're like a list that you can store anything in. They can store any objects such as fixnums, strings, or other arrays, just to name a few. Arrays are objects too, so you can create new arrays. You assign values to an array with brackets. For example, if you wanted to make yourself into an array, you just put your name, add some brackets, and fill out your empty form. Age, height, favorite color, ANYTHING can be stored under your name and it will be remembered!</p>
+      <br>
+      <p>Hashes are like arrays in that they are an indexed collection of object references. However, they are used more for mapping than order. You can index a hash with objects of any types: strings, regular expressions, and others. When you store a value in a hash, you actually supply two objects - the key and the value. </p>
+      <br>
+      <p>If you think about how you want to gather the items you are storing the choice of array vs. hash is simple. If you need to store a list that doesnt need to be in order, but can be sorted and compared, an array is what you want. When you are storing things and care more for speed than order, and just want something to hold values, then it's best to use a hash.</p>
+
+  </div>
+
+  <div class="footer">
+    Rebecca Perez, 2014
+  </div>
+</div>
+
+
+</html>
