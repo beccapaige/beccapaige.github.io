@@ -76,6 +76,26 @@
         box-shadow: 0px 0px 20px white;
     }
 
+    article a:link {
+        color:maroon;
+        text-decoration: none;
+    }
+
+    article a:visited {
+        color:maroon;
+        text-decoration: none;
+    }
+
+    article a:hover {
+        color:white;
+        text-decoration: none;
+    }
+
+    article a:active {
+        color:white;
+        text-decoration: none;
+    }
+
     p{
         border-bottom: 1px solid black;
     }
